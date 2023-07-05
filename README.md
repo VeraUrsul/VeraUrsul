@@ -1,7 +1,6 @@
 # Hi there, I'm Vera 👋
 
-- 🌱 I’m currently learning with help [yandex-praktikum](https://github.com/yandex-praktikum)
-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+🌱 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+currently+learning+with+help+Yandex-praktikum)](https://git.io/typing-svg)
 <!--
 **VeraUrsul/VeraUrsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
