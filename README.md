@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 #### (●'◡'●) TROPHY
 [![trophy](https://github-profile-trophy.vercel.app/?username=VeraUrsul&theme=onedark)](https://github.com/VeraUrsul/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 #### 
