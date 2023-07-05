@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 
 #### (●'◡'●) TROPHY
 [![trophy](https://github-profile-trophy.vercel.app/?username=VeraUrsul&theme=onedark)](https://github.com/VeraUrsul/github-profile-trophy)
+
+
+#### 
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraUrsul&layout=compact)](https://github.com/VeraUrsul/github-readme-stats)
