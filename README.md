@@ -28,3 +28,6 @@ Here are some ideas to get you started:
 #### 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraUrsul&layout=compact)](https://github.com/VeraUrsul/github-readme-stats)
+
+####
+![](https://komarev.com/ghpvc/?username=VeraUrsul)
