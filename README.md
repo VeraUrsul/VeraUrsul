@@ -1,4 +1,4 @@
-# Hi there, I'm Vera 👋
+# Hi there, my name is Vera 👋
 
 🌱 I’m currently learning with help [Yandex-praktikum](https://practicum.yandex.ru/catalog/programming/)
 
