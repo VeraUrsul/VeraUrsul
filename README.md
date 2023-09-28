@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=VeraUrsul)
 
 ###
-![Foodgram%20workflow](https://github.com/VeraUrsul/foodgram-project-react/workflows/Foodgram%20workflow/badge.svg)
+![main_foodgram_workflow](https://github.com/VeraUrsul/foodgram-project-react/workflows/Foodgram%20workflow/badge.svg)
