@@ -1,6 +1,6 @@
-# Hi there, my name is Vera 👋
+# Привет, меня зовут Вера 👋
 
-🌱 I’m currently learning with help [Yandex-praktikum](https://practicum.yandex.ru/catalog/programming/)
+<!--🌱 I’m currently learning with help [Yandex-praktikum](https://practicum.yandex.ru/catalog/programming/) -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=It's+hard,+but...+it's+fun.)](https://git.io/typing-svg)
 <!--
