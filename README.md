@@ -5,7 +5,7 @@
 
  🔭 Ранее участвовала в разработке для проекта [Федерации адаптивного хоккея](https://github.com/Studio-Yandex-Practicum/adaptive_hockey_federation).
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+hard,+but...+it's+fun.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Это+сложно,+но...+интересно!)](https://git.io/typing-svg)
 <!--
 **VeraUrsul/VeraUrsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
